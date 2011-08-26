@@ -1,0 +1,5 @@
+[GLOBAL]
+This script is used for removing double mkv posts in a movie folder (such as samples). This script is good for those who want to remove the double posts that the extra mkv files create in XBMC.
+
+[HOWTO]
+To use the script: bash mkv_scan.sh {PATH_TO_VIDEOS}
